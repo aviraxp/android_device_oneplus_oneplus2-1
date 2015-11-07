@@ -180,6 +180,10 @@ BOARD_SEPOLICY_DIRS += device/oneplus/oneplus2/sepolicy
 # Time services
 BOARD_USES_QC_TIME_SERVICES := true
 
+USE_NEW_ROM_STYLE := true
+
+WITH_LZMA_OTA := true
+
 # CM Hardware
 BOARD_USES_CYANOGEN_HARDWARE := true
 BOARD_HARDWARE_CLASS += \
