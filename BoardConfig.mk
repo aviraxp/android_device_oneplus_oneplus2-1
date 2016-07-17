@@ -220,10 +220,6 @@ BOARD_SEPOLICY_DIRS += $(PLATFORM_PATH)/sepolicy
 # Time services
 BOARD_USES_QC_TIME_SERVICES := true
 
-USE_NEW_ROM_STYLE := true
-
-WITH_LZMA_OTA := true
-
 # CM Hardware
 BOARD_HARDWARE_CLASS += $(PLATFORM_PATH)/cmhw
 TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/double_tap_enable"
