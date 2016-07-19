@@ -1,11 +1,13 @@
 [
   {
     "revision": "sm-2.0",
+    "remote": "github",
     "repository": "SudaMod-devices/android_device_oppo_common",
     "target_path": "device/oppo/common"
   },
   {
     "revision": "sm-2.0",
+    "remote": "github",
     "repository": "Ninxes/android_kernel_oneplus_msm8994",
     "target_path": "kernel/oneplus/msm8994"
   }
