@@ -1,11 +1,14 @@
 [
   {
-    "repository": "android_device_oppo_common",
-    "target_path": "device/oppo/common"
+    "repository": "CyanogenMod/android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "remote": "github",
+    "revision": "cm-13.0"
   },
   {
     "repository": "Ninxes/android_kernel_oneplus_msm8994",
     "target_path": "kernel/oneplus/msm8994",
+    "remote": "github",
     "revision": "cm-13.0"
   }
 ]
