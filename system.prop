@@ -5,12 +5,6 @@ ro.product.device=OnePlus2
 ro.build.description=OnePlus2-user 6.0.1 MMB29M 31 dev-keys
 ro.build.fingerprint=OnePlus/OnePlus2/OnePlus2:6.0.1/MMB29M/1447840820:user/release-keys
 
-# Chinese Device
-ro.product.model=ONE A2001
-ro.rf_version=TDD_FDD_Ch_All
-telephony.lteOnCdmaDevice=1
-ro.telephony.default_network=20,20
-
 # RIL
 rild.libpath=/vendor/lib64/libril-qc-qmi-1.so
 rild.libargs=-d /dev/smd0
