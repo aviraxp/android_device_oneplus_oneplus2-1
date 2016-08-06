@@ -336,11 +336,6 @@ vendor/lib64/libmm-disp-apis.so
 vendor/lib64/librs_adreno.so
 vendor/lib64/librs_adreno_sha1.so
 vendor/lib64/libscale.so
-<<<<<<< HEAD
-=======
-vendor/lib64/libsd_sdk_display.so
-vendor/lib64/libuiblur.so
->>>>>>> 44031d4... op2: Enable blur
 
 # Graphics firmware
 etc/firmware/a420_pfp.fw
