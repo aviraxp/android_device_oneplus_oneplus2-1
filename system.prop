@@ -43,6 +43,7 @@ audio.offload.multiple.enabled=true
 audio.offload.gapless.enabled=true
 mm.enable.smoothstreaming=true
 audio.offload.buffer.size.kb=1024
+audio.offload.passthrough=true
 
 # Bluetooth
 bluetooth.hfp.client=1
